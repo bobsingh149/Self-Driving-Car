@@ -10,8 +10,8 @@ This is a self-driving car that can drive from source to destination by finding 
 - Learn from previous experiences
 
 # Requirements
-Python 3
-The PyTorch library
+- Python 3
+- PyTorch library
 
 
 
